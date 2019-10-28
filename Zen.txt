@@ -12,3 +12,5 @@ Zen of Python!!!
 11. Unless explicitly silenced.
 12.In the face of ambiguity, refuse the temptation to guess.
 
+21.Explicit is better than implicit.
+
